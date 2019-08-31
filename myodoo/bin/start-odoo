@@ -1,0 +1,2 @@
+source /xwh.work/git/odoo-dev/myodoo/env/bin/activate
+/xwh.work/git/odoo-dev/myodoo/src/odoo/odoo-bin -c /xwh.work/git/odoo-dev/myodoo/production.conf
